@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Log files
+upload_log.txt
+
+# Sensitive data
+flickrAuthData.txt
+
+# Python cache
+*.pyc
+__pycache__/
