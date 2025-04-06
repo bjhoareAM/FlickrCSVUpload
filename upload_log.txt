@@ -1,4 +1,0 @@
-2025-04-07 09:25:29,170 INFO: Successfully uploaded: C:\Users\bjhoare\OneDrive - AUCKLAND MUSEUM\Desktop\Sailing Test Upload\PH-2013-7-TC-B862-08.jpg (system ID: 1048694, Photo ID: 54434743241)
-2025-04-07 09:25:33,785 INFO: Successfully uploaded: C:\Users\bjhoare\OneDrive - AUCKLAND MUSEUM\Desktop\Sailing Test Upload\PH-2013-7-TC-B638-17.jpg (system ID: 1053499, Photo ID: 54434990023)
-2025-04-07 09:25:38,177 INFO: Successfully uploaded: C:\Users\bjhoare\OneDrive - AUCKLAND MUSEUM\Desktop\Sailing Test Upload\PH-2013-7-TC-B761-13.jpg (system ID: 1052474, Photo ID: 54434933674)
-2025-04-07 09:25:42,717 INFO: Successfully uploaded: C:\Users\bjhoare\OneDrive - AUCKLAND MUSEUM\Desktop\Sailing Test Upload\PH-2013-7-TC-B1072-15.jpg (system ID: 1046384, Photo ID: 54435112290)
