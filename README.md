@@ -94,7 +94,7 @@ For more details visit https://www.aucklandmuseum.com/discover/collections/recor
 2. **CSV File**  
    In the `uploader.py` script, update the `CSV_FILE` variable with the full path to your CSV file. For example:
    ```python
-   CSV_FILE = r"C:\Users\bjhoare\OneDrive - AUCKLAND MUSEUM\Desktop\Sailing Test Upload\Flickr Upload Testing.csv"
+   CSV_FILE = r"[YOUR LOCAL FILEPATH HERE].csv"
    ```
 
 ## Usage
