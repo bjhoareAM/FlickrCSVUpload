@@ -34,7 +34,7 @@ Your CSV file **must** contain the following columns (header row). The script ex
 2. **filename** (string)  
    - The full path to the image file on your system.  
    - **Example:**  
-     `[INSERT FULL PATH HERE]\Sailing Test Upload\PH-2013-7-TC-B862-08.jpg`
+     `[INSERT FULL PATH HERE]\PH-2013-7-TC-B862-08.jpg`
 
 3. **title** (string)  
    - The title you want to assign to the image on Flickr.  
