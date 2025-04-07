@@ -34,7 +34,7 @@ Your CSV file **must** contain the following columns (header row). The script ex
 2. **filename** (string)  
    - The full path to the image file on your system.  
    - **Example:**  
-     `[INSERT FULL PATH HERE]\PH-2013-7-TC-B862-08.jpg`
+     `"/images/uploads/PH-2013-7-TC-B862-08.jpg"`
 
 3. **title** (string)  
    - The title you want to assign to the image on Flickr.  
@@ -71,10 +71,8 @@ Below is a sample row demonstrating the structure. Notice how the `description` 
 
 ```csv
 system_id,filename,title,description,tags,license,album
-1048694,"C:\Users\bjhoare\OneDrive - AUCKLAND MUSEUM\Desktop\Sailing Test Upload\PH-2013-7-TC-B862-08.jpg","[Boat ""Ozone"" by old sailing ship]","View of two men on-board a fishing boat, ""OZONE"". A big game fish is lying on the stern of the boat. A large boat, possibly a scow, is in the background. Gelatin dry plate negative photograph by Mr Tudor Washington Collins (Warkworth).
-Part of the Documentary Heritage Collection
-Credit Line: Collection of Auckland War Memorial Museum, No known copyright restrictions, 1048694
-For more details visit https://www.aucklandmuseum.com/discover/collections/record/1048694","Sailing, Sailboats, Documentary Heritage, Gelatin Silver Print","no-known-copyright","upload test"
+1048694,"/images/uploads/PH-2013-7-TC-B862-08.jpg","[Boat ""Ozone"" by old sailing ship]","View of two men on-board a fishing boat, ""OZONE"". A big game fish is lying on the stern of the boat. A large boat, possibly a scow, is in the background. Gelatin dry plate negative photograph by Mr Tudor Washington Collins (Warkworth). Part of the Documentary Heritage Collection. Credit Line: Collection of Auckland War Memorial Museum, No known copyright restrictions, 1048694. For more details visit https://www.aucklandmuseum.com/discover/collections/record/1048694","Sailing, Sailboats, Documentary Heritage, Gelatin Silver Print","no-known-copyright","upload test"
+
 ```
 
 **Tips for Creating/Editing the CSV:**
